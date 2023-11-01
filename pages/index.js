@@ -1,9 +1,10 @@
 function Home() {
   return (
-    <h1>
-      Vitchinho, eu quero você, gatchinho. Se você me ama, vem aqui na sala e
-      imita o Bruninho. 😼
-    </h1>
+    <div>
+      <center>
+        <h1>TabNews-clone</h1>
+      </center>
+    </div>
   );
 }
 
